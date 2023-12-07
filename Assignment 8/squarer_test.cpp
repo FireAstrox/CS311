@@ -1,6 +1,6 @@
-// squarer_test.cpp  SKELETON
-// Glenn G. Chappell
-// 2023-11-28
+// squarer_test.cpp 
+// Rylan Clavell Caleb Fronek
+// 12/7/23
 //
 // For CS 311 Fall 2023
 // Test program for class Squarer
